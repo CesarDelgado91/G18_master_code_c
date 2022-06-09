@@ -14,11 +14,29 @@ main {
     color: black;
     text-align: center;
     border: 5px solid rgb(180, 190, 230);
-    margin: 100px;
+    margin: 200px;
     font-family: courier;
     font-size: 120%;
 }
 
-section {
-    
+h2{
+    color: rgb(255, 0, 0);
+    font-size: 200%;
+   }
+
+h2{
+    color: rgb(255, 0, 0);
+    font-size: 200%;
 }
+
+h3{
+
+    color: rgb(255, 0, 0);
+    font-size: 200%;
+}
+
+h4{
+    color: rgb(10, 10, 10);
+    font-size: 100%;
+}
+
